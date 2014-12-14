@@ -1,0 +1,5 @@
+C:\Users\adambo\Documents\GitHub\TestProject\DataAccess\bin\Debug\Contract.dll
+C:\Users\adambo\Documents\GitHub\TestProject\DataAccess\bin\Debug\Contract.pdb
+C:\Users\adambo\Documents\GitHub\TestProject\DataAccess\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Users\adambo\Documents\GitHub\TestProject\DataAccess\obj\Debug\Contract.dll
+C:\Users\adambo\Documents\GitHub\TestProject\DataAccess\obj\Debug\Contract.pdb
