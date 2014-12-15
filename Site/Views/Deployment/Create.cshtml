@@ -1,0 +1,15 @@
+﻿@model Contract.Models.Deployment
+
+@{
+    ViewBag.Title = "Create Deployment";
+}
+
+<h1>Create Deployment</h1>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Name)
+    @Html.TextBoxFor(x => x.Name)
+    @Html.LabelFor(x => x.Description)
+    @Html.TextBoxFor(x => x.Description)
+    <input type="submit" value="Create">
+}

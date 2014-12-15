@@ -362,6 +362,7 @@
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Deployment\Index.cshtml" />
+    <Content Include="Views\Deployment\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -371,6 +372,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataAccess\Contract.csproj">
+      <Project>{bdc35cae-d17c-4ee9-8905-202f48ef068c}</Project>
+      <Name>Contract</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SiteServices\SiteServices.csproj">
       <Project>{86f30bec-6bec-4308-a4b0-a99cde3a27e3}</Project>
       <Name>SiteServices</Name>
